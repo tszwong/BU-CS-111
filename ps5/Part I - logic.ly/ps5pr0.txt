@@ -1,0 +1,9 @@
+﻿Problem Set 5, Problem 0
+Put your response to the reading below.
+IMPORTANT: Your entire response should fit on this page.
+
+
+1. I think the first disadvantage still exists because we are always trying to find faster and more efficient algorithms to solve problems while minimizing run-time and memory usage. When we do duplicate calculations or function calls it slows down the program and/or machine. 
+
+
+2. High-level languages have large libraries of methods and functions that are already made and implemented as part of the language, allowing things to be done in less lines or calculations.

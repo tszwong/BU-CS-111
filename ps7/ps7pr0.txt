@@ -1,0 +1,8 @@
+﻿PS 7: Problem 0 
+Put your response to the reading below
+
+
+I found it fascinating that DNA strands have the potential to store information, and that a human's functions may be rendered worthless in computer programming. It is also intriguing how 1018 DNA strands would possess 10,000 times the power of today’s best supercomputers. It's fascinating to think that biology and computers could have anything in common.
+
+
+One drawback of this strategy is that generating and maintaining large amounts of DNA is challenging and can result in numerous mistakes. Furthermore, the brain is far more complicated than conventional technology, making it harder to manipulate and confining it to basic computations.

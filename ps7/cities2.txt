@@ -1,0 +1,120 @@
+1910,1,New York,NY,6021.0
+1910,2,Chicago,IL,2283.0
+1910,3,Philadelphia,PA,1746.0
+1910,4,Boston,MA,1213.0
+1910,5,St. Louis,MO,760.0
+1910,6,Pittsburgh,PA,655.0
+1910,7,San Francisco,CA,604.0
+1910,8,Baltimore,MD,589.0
+1910,9,Cleveland,OH,580.0
+1910,10,Minneapolis,MN,526.0
+1910,11,Detroit,MI,503.0
+1910,12,Cincinnati,OH,425.0
+1910,13,Buffalo,NY,420.0
+1910,14,Milwaukee,WI,389.0
+1910,15,Los Angeles,CA,374.0
+1910,16,Kansas City,MO,357.0
+1910,17,Washington,DC,357.0
+1910,18,New Orleans,LA,344.0
+1910,19,Albany,NY,283.0
+1910,20,Providence,RI,274.0
+1930,1,New York,NY,8667.0
+1930,2,Chicago,IL,3718.0
+1930,3,Philadelphia,PA,2264.0
+1930,4,Detroit,MI,1721.0
+1930,5,Los Angeles,CA,1617.0
+1930,6,Boston,MA,1479.0
+1930,7,San Francisco,CA,996.0
+1930,8,Cleveland,OH,976.0
+1930,9,Pittsburgh,PA,960.0
+1930,10,St. Louis,MO,950.0
+1930,11,Baltimore,MD,836.0
+1930,12,Minneapolis,MN,753.0
+1930,13,Buffalo,NY,620.0
+1930,14,Milwaukee,WI,615.0
+1930,15,Cincinnati,OH,580.0
+1930,16,Kansas City,MO,561.0
+1930,17,Washington,DC,527.0
+1930,18,New Orleans,LA,469.0
+1930,19,Seattle,WA,390.0
+1930,20,Indianapolis,IN,379.0
+1950,1,New York,NY,12604.0
+1950,2,Chicago,IL,5208.0
+1950,3,Los Angeles,CA,4250.0
+1950,4,Philadelphia,PA,3297.0
+1950,5,Detroit,MI,2884.0
+1950,6,Boston,MA,2301.0
+1950,7,San Francisco,CA,2131.0
+1950,8,St. Louis,MO,1541.0
+1950,9,Cleveland,OH,1425.0
+1950,10,Pittsburgh,PA,1400.0
+1950,11,Washington,DC,1287.0
+1950,12,Baltimore,MD,1162.0
+1950,13,Minneapolis,MN,987.0
+1950,14,Buffalo,NY,895.0
+1950,15,Dallas,TX,855.0
+1950,16,Milwaukee,WI,829.0
+1950,17,Cincinnati,OH,813.0
+1950,18,Houston,TX,701.0
+1950,19,Kansas City,MO,698.0
+1950,20,New Orleans,LA,660.0
+1970,1,New York,NY,16193.0
+1970,2,Los Angeles,CA,7984.0
+1970,3,Chicago,IL,7164.0
+1970,4,Philadelphia,PA,4419.0
+1970,5,Detroit,MI,4085.0
+1970,6,San Francisco,CA,3049.0
+1970,7,Boston,MA,2703.0
+1970,8,Washington,DC,2671.0
+1970,9,Pittsburgh,PA,2124.0
+1970,10,St. Louis,MO,2123.0
+1970,11,Dallas,TX,2016.0
+1970,12,Cleveland,OH,1960.0
+1970,13,Miami,FL,1834.0
+1970,14,Minneapolis,MN,1701.0
+1970,15,Houston,TX,1678.0
+1970,16,Baltimore,MD,1580.0
+1970,17,Milwaukee,WI,1252.0
+1970,18,Seattle,WA,1238.0
+1970,19,San Diego,CA,1198.0
+1970,20,Atlanta,GA,1172.0
+1990,1,New York,NY,16754.0
+1990,2,Los Angeles,CA,13522.0
+1990,3,Chicago,IL,7373.0
+1990,4,San Francisco,CA,5386.0
+1990,5,Philadelphia,PA,4970.0
+1990,6,Miami,FL,3948.0
+1990,7,Detroit,MI,3698.0
+1990,8,Washington,DC,3363.0
+1990,9,Boston,MA,3355.0
+1990,10,Dallas,TX,3265.0
+1990,11,Houston,TX,3088.0
+1990,12,Seattle,WA,2354.0
+1990,13,San Diego,CA,2348.0
+1990,14,Atlanta,GA,2158.0
+1990,15,Minneapolis,MN,2080.0
+1990,16,Phoenix,AZ,2006.0
+1990,17,St. Louis,MO,1947.0
+1990,18,Baltimore,MD,1890.0
+1990,19,Pittsburgh,PA,1744.0
+1990,20,Tampa,FL,1709.0
+2010,1,New York,NY,20009.0
+2010,2,Los Angeles,CA,15750.0
+2010,3,Chicago,IL,9023.0
+2010,4,San Francisco,CA,6828.0
+2010,5,Philadelphia,PA,6003.0
+2010,6,Dallas,TX,5685.0
+2010,7,Miami,FL,5513.0
+2010,8,Houston,TX,5382.0
+2010,9,Atlanta,GA,4743.0
+2010,10,Washington,DC,4697.0
+2010,11,Boston,MA,4407.0
+2010,12,Detroit,MI,4160.0
+2010,13,Phoenix,AZ,3863.0
+2010,14,Seattle,WA,3446.0
+2010,15,San Diego,CA,2985.0
+2010,16,Denver,CO,2716.0
+2010,17,Minneapolis,MN,2651.0
+2010,18,Baltimore,MD,2497.0
+2010,19,Tampa,FL,2442.0
+2010,20,St. Louis,MO,2246.0
