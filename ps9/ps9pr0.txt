@@ -1,0 +1,6 @@
+﻿Problem Set 9: Problem 0
+Put your response to the reading below.
+
+
+1. Suppose that pivot searching was readily available to you. To what extent could you imagine using it? Do you feel it would make you more productive – or would this type of search remain largely unused in the way you interact with computation and electronic materials?
+I doubt I would make use of pivot searching even if it was readily available to me. First, I like privacy so having software constantly track and monitor my online activity is not something I would like. Second, there are many softwares, perhaps helpful or perhaps not, that are installed on my devices but remain largely unused. I think this is a cool idea, however, I do not think it is useful for myself, in fact, I think it would hinder my productivity and possibly causes other problems.
