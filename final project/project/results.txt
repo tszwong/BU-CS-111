@@ -1,0 +1,58 @@
+Name: Tsz Kit Wong
+Email: wongt@bu.edu
+
+
+puzzles with 5-move optimal solutions
+-------------------------------------
+algorithm                num. solved    avg. moves    avg. states tested
+------------------------------------------------------------------------
+random                       10             5.4             1467.1
+BFS                          10             5.0             47.1
+DFS (depth limit 20)         10             16.2            19072.7
+DFS (depth limit 50)         10             48.2            49043.0
+Greedy Search (using h1)     10             22.2            55.5
+A* (using h1)                10             22.2            55.5
+
+
+
+puzzles with 10-move optimal solutions
+-------------------------------------
+algorithm                num. solved    avg. moves    avg. states tested
+------------------------------------------------------------------------
+random                      10              11.6            12659.9
+BFS                         10              10.0            747.4
+DFS (depth limit 20)        10              18.8            24858.0
+DFS (depth limit 50)        10              49.2            92287.3
+Greedy Search (using h1)    took too long, manual stop
+A* (using h1)               took too long, manual stop
+
+
+puzzles with 15-move optimal solutions
+-------------------------------------
+algorithm                num. solved    avg. moves    avg. states tested
+------------------------------------------------------------------------
+random                      10              19.0            21552.9
+BFS                         10              15.0            12672.0
+DFS (depth limit 20)        10              17.8            68659.0
+DFS (depth limit 50)        10              48.6            111406.0
+Greedy Search (using h1)    took too long, manual stop
+A* (using h1)               took too long, manual stop
+
+
+
+Paragraph Reflection:
+The less moves required the quicker it can be solved. Also, the puzzles that
+require more moves to solve are less suited for algorithms such as Greedy and
+A* since it can go too deep without finding a solution and leading to manually
+stop the search as it takes way too long to find a solution. BFS is also the
+best algorithm in this experiment as it requires significantly less states
+tested and average moves to find the solution.
+
+
+
+h2 heuristic:
+---------------
+Rather than just amount of misplaced numbers, it also takes in to account the
+position where the misplaced numbers are located. The priority would be changed
+as the further away the number is from the correct row, the more moves its would
+require to put it back into the correct place.
