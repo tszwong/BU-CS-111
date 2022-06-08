@@ -8,5 +8,5 @@ I created test functions in most problem sets. These do not affect the code in a
 
 Key Assignments:
 -----
-PS9 : Connect Four Project <br/>
-PS10 : eight puzzle solver
+PS9 : Connect four project <br/>
+PS10 : Eight puzzle solver
